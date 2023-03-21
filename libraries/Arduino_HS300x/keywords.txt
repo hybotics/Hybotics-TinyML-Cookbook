@@ -1,0 +1,26 @@
+#########################################
+# Syntax Coloring Map For Arduino_HS300X
+#########################################
+# Class
+#########################################
+
+Arduino_HS300x	KEYWORD1
+HS300x	KEYWORD1
+HS3003	KEYWORD1
+
+#########################################
+# Methods and Functions 
+#########################################	
+
+begin	KEYWORD2
+end	KEYWORD2
+
+readTemperature	KEYWORD2
+readHumidity	KEYWORD2
+
+#########################################
+# Constants
+#########################################
+
+FAHRENHEIT	LITERAL1
+CELSIUS	LITERAL1
