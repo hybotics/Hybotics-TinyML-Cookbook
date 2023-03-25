@@ -1,5 +1,5 @@
 // Note: Set to 1 if you want to check whether the model can forecast the snow
-#define DEBUG_SNOW 1
+#define DEBUG_SNOW 0
 
 #include "model.h"
 
